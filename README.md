@@ -1,5 +1,10 @@
-# Programa desenvolve GB
-Exercícios realizados durante na formação GB Grupo Boticário - focado na área de dados
+# Programa Desenvolve GB 2022
+
+<div>
+  </br>
+<h1> Programa de formação voltada para área de dados oferecida pelo Grupo "O Boticário" </br> </h2>
+
+<h3> Assuntos abordados</h3>
 
 * Lógica de programação 
 * Python 3 
@@ -11,6 +16,7 @@ Exercícios realizados durante na formação GB Grupo Boticário - focado na ár
 * LGPD
 * Estatística com Python
 * Introdução à experimentação: Análise de experimentos
+</div>
 
 </div>
 </br>
