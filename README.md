@@ -15,6 +15,8 @@
 * LGPD
 * Estatística com Python
 * Introdução à experimentação: Análise de experimentos
+* Scraping com Python
+* Google Sheets
 </br>
 
 <div display: inline-block>
