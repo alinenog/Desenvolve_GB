@@ -1,9 +1,11 @@
 #  Programa Desenvolve GB 2022
 <div>
   </br>
-<h1> Programa de formação voltada para área de dados oferecida pelo Grupo "O Boticário" 🎲 </br> </h2>
+<h1> Programa de formação voltada para área de dados oferecida pelo 🎲 Grupo "O Boticário" 🎲 </br> </h2>
 
-<h3>  Temas abordados 👩‍💻</h3>
+<h2>  Temas abordados 👩‍💻</h2>
+
+<h3>Hard skills</h3>
 
 * Lógica de programação 
 * Python 3 
@@ -17,6 +19,19 @@
 * Introdução à experimentação: Análise de experimentos
 * Scraping com Python
 * Google Sheets
+* Google Data Studio
+* Big Query
+* Machine Learning
+* Clustering
+* Deep Learning 
+</br>
+
+<h3>Soft skills</h3>
+
+* Hábitos: da produtividade às metas pessoais
+* Foco: Trazendo mais resultados para o dia a dia
+* Kanban
+* Oratória
 </br>
 
 <div display: inline-block>
