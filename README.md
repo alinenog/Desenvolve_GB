@@ -5,6 +5,7 @@
 "O Boticário"  🎲 </br>
 📚  Formação realizada pela plataforma Alura
 
+<div>
 </br>
 
 <h2> Hard skills 📊  </h2>
@@ -53,3 +54,5 @@
 <h2> Agradecimento </h2>
 Ao mentor António Júnior que concedeu seu tempo para estar conosco, e compartilhar seus conhecimentos durante essa jornada </br>
 <a href="https://www.linkedin.com/in/acsjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
