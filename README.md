@@ -1,13 +1,13 @@
 # Programa Desenvolve 2022 🎲 
 
-## Sobre 
+<h2> Sobre </h2>
  Programa Desenvolve 2022, formação voltada para área de dados oferecida pelo  Grupo 
 "O Boticário"  🎲 </br>
 📚  Formação realizada pela plataforma Alura
 
 </br>
 
-## Hard skills 📊 
+<h2> Hard skills 📊  </h2>
 <li> Lógica de programação 
 <li> Python 3 
 <li> Business Intelligence
@@ -28,7 +28,7 @@
 
 </br>
 
-## Soft skills 🙎🏻‍♀️
+<h2> Soft skills 🙎🏻‍♀️ </h2>
 
 <li> Hábitos: da produtividade às metas pessoais
 <li> Foco: Trazendo mais resultados para o dia a dia
@@ -37,7 +37,7 @@
 </br>
 </br>
 
-## Tecnologias usadas
+<h2> Tecnologias usadas </h2>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> 
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -50,6 +50,6 @@
 
 </br>
 
-### Agradecimento
+<h2> Agradecimento </h2>
 Ao mentor António Júnior que concedeu seu tempo para estar conosco, e compartilhar seus conhecimentos durante essa jornada </br>
 <a href="https://www.linkedin.com/in/acsjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
